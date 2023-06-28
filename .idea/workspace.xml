@@ -4,19 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="Init repo">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/BankExercise/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/BankExercise/bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/Module3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/ProductInventory/Inventory/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/ProductInventory/Inventory/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/ProductInventory/Inventory/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/ProductInventory/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/UniExercise/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/UniExercise/University/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/UniExercise/University/Enrollment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/UniExercise/University/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structure/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structure/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2RbfkK7FQcALDlyifimU4FGLs1L" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,9 +50,64 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "/Users/mathistelschow/IdeaProjects/javaCourse/src/main/java/org/example/Main.java"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "onboarding.tips.debug.path": "/Users/mathistelschow/IdeaProjects/javaCourse/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercises.Module3.Main">
+    <configuration name="Exercises.Module3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Module3.Main" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.Module3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercises.UniExercise.Main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.UniExercise.Main.Main" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.UniExercise.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankExercise.Main.Main" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankExercise.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercises.Module3.Main" />
+        <item itemvalue="Application.Exercises.UniExercise.Main.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,17 +117,30 @@
       <option name="presentableId" value="Default" />
       <updated>1687523842920</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init repo">
+      <option name="closed" value="true" />
+      <created>1687523888529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687523888529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init repo" />
   </component>
 </project>
