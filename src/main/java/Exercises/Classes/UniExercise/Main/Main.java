@@ -1,8 +1,8 @@
-package Exercises.UniExercise.Main;
+package Exercises.Classes.UniExercise.Main;
 
-import Exercises.UniExercise.University.Course;
-import Exercises.UniExercise.University.Enrollment;
-import Exercises.UniExercise.University.Student;
+import Exercises.Classes.UniExercise.University.Course;
+import Exercises.Classes.UniExercise.University.Enrollment;
+import Exercises.Classes.UniExercise.University.Student;
 
 public class Main {
     public static void main(String[] args) {

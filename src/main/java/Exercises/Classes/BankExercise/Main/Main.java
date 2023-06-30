@@ -1,6 +1,6 @@
-package Exercises.BankExercise.Main;
+package Exercises.Classes.BankExercise.Main;
 
-import Exercises.BankExercise.bank.BankAccount;
+import Exercises.Classes.BankExercise.bank.BankAccount;
 
 public class Main {
     public static void main(String[] args) {

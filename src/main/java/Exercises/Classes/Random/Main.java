@@ -1,4 +1,4 @@
-package Exercises.Random;
+package Exercises.Classes.Random;
 
 public class Main {
     public static void main(String[] args) {

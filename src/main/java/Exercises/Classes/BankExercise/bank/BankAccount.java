@@ -1,4 +1,4 @@
-package Exercises.BankExercise.bank;
+package Exercises.Classes.BankExercise.bank;
 
 public class BankAccount {
     public int accountNumber;

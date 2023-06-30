@@ -1,8 +1,8 @@
-package Exercises.ProductInventory.Main;
+package Exercises.Classes.ProductInventory.Main;
 
-import Exercises.ProductInventory.Inventory.Inventory;
-import Exercises.ProductInventory.Inventory.Product;
-import Exercises.ProductInventory.Inventory.Warehouse;
+import Exercises.Classes.ProductInventory.Inventory.Inventory;
+import Exercises.Classes.ProductInventory.Inventory.Product;
+import Exercises.Classes.ProductInventory.Inventory.Warehouse;
 
 public class Main {
     public static void main(String[] args) {
