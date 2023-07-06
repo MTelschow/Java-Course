@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="Add method exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/AccesModifiers/All/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/AccesModifiers/All/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/AccesModifiers/FixProblem/Main/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/AccesModifiers/FixProblem/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/AccesModifiers/FixProblem/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/AccesModifiers/Static/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/AccesModifiers/Static/Main.java" afterDir="false" />
+    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="Add access modifier exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/string_stringBuilder/immutablility/Immutability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/string_stringBuilder/stringClass/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/string_stringBuilder/stringClass/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/string_stringBuilder/string_compare/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/string_stringBuilder/stringbuilder_example/StringBuilderExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercises/ControlFlow/Number8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercises/ControlFlow/Number8/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +51,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercises.AccesModifiers.Static.Main">
-    <configuration name="Adder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Methods.Parameters.Adder" />
+  <component name="RunManager" selected="Application.StringBuilderExample">
+    <configuration name="Immutability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.string_stringBuilder.immutablility.Immutability" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Methods.Parameters.*" />
+          <option name="PATTERN" value="Exercises.string_stringBuilder.immutablility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises.AccesModifiers.Static.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.AccesModifiers.Static.Main" />
+    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.string_stringBuilder.stringbuilder_example.StringBuilderExample" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.AccesModifiers.Static.*" />
+          <option name="PATTERN" value="Exercises.string_stringBuilder.stringbuilder_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises.Methods.AdvancedCalc.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Methods.AdvancedCalc.Main" />
+    <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.string_stringBuilder.string_compare.StringCompare" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Methods.AdvancedCalc.*" />
+          <option name="PATTERN" value="Exercises.string_stringBuilder.string_compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Methods.ForeignMethods.Main" />
+    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.string_stringBuilder.stringClass.StringExample" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Methods.ForeignMethods.*" />
+          <option name="PATTERN" value="Exercises.string_stringBuilder.stringClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Methods.Return.Multiplier" />
+    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.string_stringBuilder.stringClass.StringMethods" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Methods.Return.*" />
+          <option name="PATTERN" value="Exercises.string_stringBuilder.stringClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercises.AccesModifiers.Static.Main" />
-        <item itemvalue="Application.Exercises.Methods.AdvancedCalc.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Multiplier" />
-        <item itemvalue="Application.Adder" />
+        <item itemvalue="Application.StringBuilderExample" />
+        <item itemvalue="Application.StringCompare" />
+        <item itemvalue="Application.Immutability" />
+        <item itemvalue="Application.StringMethods" />
+        <item itemvalue="Application.StringExample" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688484294848</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add access modifier exercises">
+      <option name="closed" value="true" />
+      <created>1688636527424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688636527424</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +177,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init repo" />
     <MESSAGE value="Add method exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add method exercises" />
+    <MESSAGE value="Add access modifier exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add access modifier exercises" />
   </component>
 </project>
