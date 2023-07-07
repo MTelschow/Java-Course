@@ -8,4 +8,5 @@ public class StringBuilderExample {
         System.out.println(sb1.append(sb2));
         System.out.println(sb1.reverse());
     }
+
 }
