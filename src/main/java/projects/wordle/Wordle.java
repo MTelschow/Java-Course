@@ -1,4 +1,4 @@
-package projects.wordle.wordle;
+package projects.wordle;
 
 import projects.utils.ConsoleColors;
 
