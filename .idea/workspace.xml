@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="Refactor package naming">
-      <change afterPath="$PROJECT_DIR$/src/main/java/projects/hangman/Hangman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/projects/hangman/HangmanGame.java" afterDir="false" />
+    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="Solve hangman project">
+      <change afterPath="$PROJECT_DIR$/src/main/java/projects/tictactoe/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projects/tictactoe/TicTacToeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HangmanGame">
+  <component name="RunManager" selected="Application.TicTacToeGame">
     <configuration name="BagExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.Generics.BagExample" />
       <module name="javaCourse" />
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Generics.SetExample" />
+    <configuration name="TicTacToeGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projects.tictactoe.TicTacToeGame" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.Generics.*" />
+          <option name="PATTERN" value="projects.tictactoe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToeGame" />
         <item itemvalue="Application.HangmanGame" />
         <item itemvalue="Application.WordleGame" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.BagExample" />
-        <item itemvalue="Application.SetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689006070560</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Solve hangman project">
+      <option name="closed" value="true" />
+      <created>1689010440915</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689010440915</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,7 +228,8 @@
     <MESSAGE value="Add lambda expression exercises" />
     <MESSAGE value="Implement Wordle" />
     <MESSAGE value="Refactor package naming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor package naming" />
+    <MESSAGE value="Solve hangman project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve hangman project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
