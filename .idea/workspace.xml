@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="Add lambda expression exercises">
+    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="Refactor package naming">
       <change afterPath="$PROJECT_DIR$/src/main/java/projects/hangman/Hangman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/projects/utils/ConsoleColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/projects/wordle/wordle/Wordle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/projects/wordle/wordle/WordleGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projects/hangman/HangmanGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Haisb/IdeaProjects/javaCourse&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/mathistelschow/IdeaProjects/javaCourse/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Haisb/IdeaProjects/javaCourse",
+    "onboarding.tips.debug.path": "/Users/mathistelschow/IdeaProjects/javaCourse/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordleGame">
+  <component name="RunManager" selected="Application.HangmanGame">
     <configuration name="BagExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.Generics.BagExample" />
       <module name="javaCourse" />
@@ -65,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.LambdaExpressions.LambdaExample" />
+    <configuration name="HangmanGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projects.hangman.HangmanGame" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.LambdaExpressions.*" />
+          <option name="PATTERN" value="projects.hangman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.oop.Main" />
+    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.LambdaExpressions.LambdaExample" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.oop.*" />
+          <option name="PATTERN" value="Exercises.LambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HangmanGame" />
         <item itemvalue="Application.WordleGame" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.BagExample" />
         <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +181,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688991848313</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Implement Wordle">
+      <option name="closed" value="true" />
+      <created>1689005989000</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689005989000</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Refactor package naming">
+      <option name="closed" value="true" />
+      <created>1689006070560</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689006070560</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +218,12 @@
     <MESSAGE value="Add string and stringbuilder exercises" />
     <MESSAGE value="Add generics exercises" />
     <MESSAGE value="Add lambda expression exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add lambda expression exercises" />
+    <MESSAGE value="Implement Wordle" />
+    <MESSAGE value="Refactor package naming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor package naming" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
