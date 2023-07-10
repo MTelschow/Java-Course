@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="Add generics exercises">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/LambdaExpressions/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/LambdaExpressions/NumericOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises/LambdaExpressions/StringFormatter.java" afterDir="false" />
+    <list default="true" id="b9edb43b-f147-4d1c-a898-e1e01eb5eade" name="Changes" comment="Add lambda expression exercises">
+      <change afterPath="$PROJECT_DIR$/src/main/java/projects/hangman/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projects/utils/ConsoleColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projects/wordle/wordle/Wordle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projects/wordle/wordle/WordleGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaExample">
+  <component name="RunManager" selected="Application.WordleGame">
     <configuration name="BagExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.Generics.BagExample" />
       <module name="javaCourse" />
@@ -102,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.string_stringBuilder.stringbuilder_example.StringBuilderExample" />
+    <configuration name="WordleGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projects.wordle.wordle.WordleGame" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.string_stringBuilder.stringbuilder_example.*" />
+          <option name="PATTERN" value="projects.wordle.wordle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordleGame" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.BagExample" />
         <item itemvalue="Application.SetExample" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StringBuilderExample" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688980679453</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add lambda expression exercises">
+      <option name="closed" value="true" />
+      <created>1688991848313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688991848313</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +204,7 @@
     <MESSAGE value="Add access modifier exercises" />
     <MESSAGE value="Add string and stringbuilder exercises" />
     <MESSAGE value="Add generics exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add generics exercises" />
+    <MESSAGE value="Add lambda expression exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add lambda expression exercises" />
   </component>
 </project>
